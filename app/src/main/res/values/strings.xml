@@ -3,4 +3,8 @@
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
+    <string name="profile">Profile</string>
+    <string name="map">Map</string>
+    <string name="name">Введите имя</string>
+    <string name="name">Наркозуев Ишеналы</string>
 </resources>
